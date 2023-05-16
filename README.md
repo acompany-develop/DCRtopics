@@ -1,2 +1,2 @@
 # DCRtopics
-Repository to research &amp; share the 'Data Clean Room' articles.
+Repository to research &amp; share the data clean room articles.
